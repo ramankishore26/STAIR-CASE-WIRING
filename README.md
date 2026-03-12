@@ -1,5 +1,6 @@
 # STAIR-CASE-WIRING
-
+NAME : RAMAN KISHORE C
+REG NO : 212223080041
 AIM
 To control the status of the given lamp by using two – way switches.
 
